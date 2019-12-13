@@ -16,7 +16,7 @@
   "private": false,
   "license": "MIT",
   "description": "Detects if a browser is IE11",
-  "repository": "git@github.com:kaliberjs/use-is-ie11.git",
+  "repository": "https://github.com/kaliberjs/use-is-ie11.git",
   "contributors": [
     "Joost Kiens <joost@kaliber.net>",
     "Peeke Kuepers <peeke@kaliber.net> (https://peeke.nl)"
