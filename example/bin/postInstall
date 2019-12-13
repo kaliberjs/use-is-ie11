@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ln -sf ./example/node_modules ../node_modules
+ln -sf ../../../ ./node_modules/@kaliber/use-is-ie11
