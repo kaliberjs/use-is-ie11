@@ -6,6 +6,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "keywords": ["react", "hooks", "hook"],
   "files": [
     "src/**",
     "LICENSE",
