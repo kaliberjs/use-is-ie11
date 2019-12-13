@@ -24,6 +24,6 @@ function Component() {
 ![](https://media.giphy.com/media/yqtpq8rqqXBh6/giphy.gif)
 
 ## Disclaimer
-This library is intended for internal use, we provide __no__ support, us at yout own risk.
+This library is intended for internal use, we provide __no__ support, use at your own risk.
 
 This library is not transpiled.
