@@ -3,9 +3,6 @@
   "version": "0.0.0",
   "main": "src/index.js",
   "sideEffects": false,
-  "dependencies": {
-    "@kaliber/build": "^0.0.99"
-  },
   "publishConfig": {
     "access": "public"
   },
