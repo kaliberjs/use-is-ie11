@@ -1,5 +1,5 @@
 #!/bin/bash
 
-mkdir ../node_modules
+mkdir -p ../node_modules
 ln -sfn ../example/node_modules/react/ ../node_modules/react
 ln -sfn ../../../ ./node_modules/@kaliber/use-is-ie11
