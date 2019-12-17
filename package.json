@@ -1,6 +1,6 @@
 {
   "name": "@kaliber/use-is-ie11",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "src/index.js",
   "sideEffects": false,
   "publishConfig": {
