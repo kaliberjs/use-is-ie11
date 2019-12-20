@@ -24,6 +24,6 @@ function Component() {
 ![](https://media.giphy.com/media/yqtpq8rqqXBh6/giphy.gif)
 
 ## Disclaimer
-This library is intended for internal use, we provide __no__ support, use at your own risk.
+This library is intended for internal use, we provide __no__ support, use at your own risk. It does not import React, but expects it to be provided, which [@kaliber/build](https://kaliberjs.github.io/build/) can handle for you.
 
 This library is not transpiled.
